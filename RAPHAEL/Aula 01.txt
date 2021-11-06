@@ -1,0 +1,11 @@
+Olá pessoal, boas-vindas ao treinamento de Selenium aqui da Alura. Meu nome é Rodrigo e serei seu instrutor durante este treinamento, cujo objetivo é aprender a utilizar a API do Selenium WebDriver para escrever testes de aceitação na linguagem Java.
+
+O Selenium é uma ferramenta para escrever testes de aceitação e tem suporte a várias linguagens, como Python, Ruby, PHP e o próprio Java. Neste curso aprenderemos a baixar e configurar o Selenium em nossa aplicação, e a escrever os testes de aceitação para simular um usuário navegando pela aplicação e validando as funcionalidades.
+
+Aprenderemos a entrar no site do Selenium e ler a documentação e o guia de boas práticas. A aplicação com a qual trabalharemos durante o curso envolverá leilões. É uma aplicação já pronta, já que o objetivo do treinamento não é desenvolvermos a aplicação e seu código-fonte, mas sim testá-la utilizando o Selenium.
+
+Trata-se de uma aplicação bem simples, na qual os usuários podem cadastrar leilões, incluindo uma funcionalidade de autenticação, listagem, edição e assim por diante. Nosso objetivo é testar algumas dessas funcionalidades.
+
+Aprenderemos a escrever os códigos dos testes automatizados, como esses testes são realizados em uma aplicação Java utilizando o Maven, aprenderemos a utilizar os Page Objects (um padrão importante utilizado na API do Selenium), entre outras boas práticas.
+
+É um curso bem técnico, focado em programação Java, utilizando a biblioteca do Selenium WebDriver. Espero que vocês gostem do treinamento e que possam aprender a utilizar o Selenium para automatizar os testes de aceitação dos seus projetos. Bons estudos!

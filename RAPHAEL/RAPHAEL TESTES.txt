@@ -1,0 +1,39 @@
+1. Classes estáticas, são classes que eu posso chama-las sem dar new antes.
+
+//Essa não é
+DriverFactory factory = new DriverFactory();
+factory.getDriver();
+
+//Essa é estática
+DriverFactory.getDriver();
+
+
+2. Herança é a capacidade que um objeto tem de poder herdar as caracteríticas de outro objeto, Exemplo, a classe animal e a classe gato, gato extends(herda) de animal.
+
+3- CamelCase e PascalCase,
+
+class TributoDeFolhaDeTrabalho{
+	int dataPagamento;
+	string diaDoPagamento;
+	Date dataDaFinalizacaoDaFolha;
+}
+
+4- Em todos os elementos HTML é ideal que exista um id, por exemplo
+
+<html>
+	<button id="meuButaoLaEle"></button>
+
+	<p>Esse é o meu paragrafo</p>
+
+	<select id="KAOEAKPOSAQHEHUEGAYACidadeNatal"></select>
+
+</html>
+
+
+5- Referência dos query selector, que contém as formas de buscar os elementos na página web.
+
+https://www.w3schools.com/cssref/css_selectors.asp
+
+Lembre-se, você não precisa aprofundar tanto, pois o copy Xpath e o copy query selector, que é feito no chrome, já gera o código do cssSelector ou xPath para você.
+
+6- 
